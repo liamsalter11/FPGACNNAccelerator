@@ -1,1 +1,1 @@
-# FPGACNNAccelerator
+# FPGA CNN Accelerator
